@@ -6,8 +6,6 @@ A Scratch project published and developed by me!
 
 Download the Scratch 3 Project or the HTML File.
 
-Open the HTML file in a browser.
-
-or open the sb3 file (Scratch 3 Project) in the Scratch website or app.
+Open the HTML file in a browser or open the sb3 file (Scratch 3 Project) in the Scratch website or app.
 
 And thats it! now Go!
