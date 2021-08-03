@@ -1,4 +1,4 @@
-# X-DOS-JAM-S-1
+# X-DOS JAM S 1
 A Scratch project published and developed by me!
 # What to do!
 Download the Zip File or the HTML File.
